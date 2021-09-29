@@ -192,6 +192,91 @@
             "name": "MySQL"
           }
         ]
+      },
+      {
+        "title": "Currency Converter",
+        "startDate": "June 2021",
+        "description": "Epicodus Code Review 006 - The Currency Exchanger is an application used to display currency conversions (layout inspired by Google's search engine converter).",
+        "images": [
+          "/bordonj-portfolio/images/portfolio/curr/curr1.png",
+          "/bordonj-portfolio/images/portfolio/curr/curr2.png"
+        ],
+        "url": "https://bordonj.github.io/epicodus-currencyExchanger/",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "dot-net"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Galactic Age Calculator",
+        "startDate": "June 2021",
+        "description": "This application can take a person's age in Earth years, and then transform it into an age for a respective planet (i.e., Mercury, Venus, Mars, Jupiter)",
+        "images": [
+          "/bordonj-portfolio/images/portfolio/gal/gal1.png",
+          "/bordonj-portfolio/images/portfolio/gal/gal2.png"
+        ],
+        "url": "https://bordonj.github.io/epicodus-galacticAge/",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "dot-net"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Old Profile",
+        "startDate": "May 2021",
+        "description": "This is a (silly) portfolio webpage that uses both HTML (hypertext markup language) and CSS (cascading style sheet) to build and style the content. On this page, there is a short biography provided about me (Jenn). On the top of the page, you can navigate through the different content of the website.",
+        "images": [
+          "/bordonj-portfolio/images/portfolio/oldport/oldport2.png",
+          "/bordonj-portfolio/images/portfolio/oldport/oldport3.png",
+          "/bordonj-portfolio/images/portfolio/oldport/oldport4.png"
+        ],
+        "url": "https://bordonj.github.io/epicodus-portfolio/",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "dot-net"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
       }
     ],
     "experience": [
