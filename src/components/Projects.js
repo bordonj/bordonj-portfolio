@@ -53,6 +53,11 @@ class Projects extends Component {
           <h1 className="section-title" style={{ color: "black" }}>
             <span>{sectionName}</span>
           </h1>
+          <div className="projectintro">
+            <h3>
+              To see more projects, please check out my <a href="https://github.com/bordonj"><i class="devicon-github-original"></i></a> and <a href="https://www.linkedin.com/in/bordonj/"><i class="devicon-linkedin-plain colored"></i></a>!
+              </h3>
+          </div>
           <div className="col-md-12 mx-auto">
             <div className="row mx-auto">{projects}</div>
           </div>
