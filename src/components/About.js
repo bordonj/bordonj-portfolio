@@ -27,8 +27,8 @@ class About extends Component {
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="350px"
-                    src={profilepic}
-                    alt="profile photo"
+                    src="https://firebasestorage.googleapis.com/v0/b/portfolio-1c507.appspot.com/o/images%2FmyProfile.jpg?alt=media&token=800e275e-1497-4be1-911b-565236002d5b"
+                    alt="my face"
                   />
                   <Icon
                     icon={reactIcon}
