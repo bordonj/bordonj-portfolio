@@ -1,0 +1,278 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "Hello, I'm Jenn! Most of my career experience has been in research, which eventually culminated into a counseling psychology Ph.D. I was able to achieve this with the use of the scientific method--implementing theory and statistical analyses to better understand human behavior (and its resulting psychological/ behavioral outcomes).",
+      "description2": "As I've grown an interest in coding, I've become fond of how the coding process works. That is, applying the critical thinking skills I've used for research to be relevant in the tech industry.",
+      "description3": "I'm excited to bridge the power of creating applications with the research skills I've accumulated, in hopes of becoming a creative developer (with my potentially unique educational background).",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Astrological Interests",
+        "startDate": "July 2021",
+        "description": "- [See last image for preview of App] - Team Project that makes an API call to an Astrology API in order to determine potential interests one may have, depending on one's Astrology results. Chains API calls together. Several technologies used, including webpack to create the environment.Two different APIs (please see README for details).",
+        "images": [
+          "images/portfolio/astro/splash.png",
+          "images/portfolio/astro/astro2.png",
+          "images/portfolio/astro/astro3.png",
+          "images/portfolio/astro/astro-gif.gif"
+        ],
+        "url": "https://github.com/bordonj/astrological-movie",
+        "technologies": [
+          {
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-webpack-plain",
+            "name": "webpack"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
+          }
+        ]
+      },
+      {
+        "title": "Pizza Project",
+        "startDate": "June 2021",
+        "description": "A project that practices object-oriented JavaScript",
+        "images": [
+          "images/portfolio/pizza/pizza1.png",
+          "images/portfolio/pizza/pizza2.png",
+          "images/portfolio/pizza/pizza3.png"
+        ],
+        "url": "https://bordonj.github.io/pizzaParlor/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Pig Dice",
+        "startDate": "June 2021",
+        "description": "A site that helped us practice constructors and methods. Modeled after the pig dice game. Can be very frustrating!",
+        "images": [
+          "images/portfolio/pig/p1.png",
+          "images/portfolio/pig/p2.png",
+          "images/portfolio/pig/p3.png"
+        ],
+        "url": "https://bordonj.github.io/pigDice/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Tap Room",
+        "startDate": "June 2021",
+        "description": "This is a Tap Room where a Boba Bar can track its tea storage! It will at the minimum, have CREATE and READ functionality. And if am successfully ambitious, will have UPDATE and DELETE functionality.",
+        "images": [
+          "images/portfolio/boba/boba1.png",
+          "images/portfolio/boba/boba2.png"
+        ],
+        "url": "https://bordonj.github.io/epicodus-tapRoom/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "javascript"
+          }
+        ]
+      },
+      {
+        "title": "Pierre's Sweet and Savory Treats",
+        "startDate": "July 2021",
+        "description": "This is an application with user authentication and a many-to-nany relationship.",
+        "images": [
+          "images/portfolio/pierre/pierre1.png",
+          "images/portfolio/pierre/pierre2.png"
+        ],
+        "url": "https://github.com/bordonj/epicodus-PierresSweetAndSavoryTreats.Solution/",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "dot-net"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Dr. Sillystringz Factory",
+        "startDate": "August 2021",
+        "description": "This is a silly MVC web application to help Dr. Sillystringz keep track of their machine repairs. This MVC web app allows management their engineers and machines they are licensed to fix. It demonstrates a many-to-many relationship with CRUD functionality.",
+        "images": [
+          "images/portfolio/factory/factory1.png",
+          "images/portfolio/factory/factory2.png"
+        ],
+        "url": "https://github.com/bordonj/epicodus-DrSillyStringzsFactory.Solution",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "dot-net"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Epicodus Bootcamp",
+        "title": "Student",
+        "years": "05.2021 - 11.2021",
+        "mainTech": [
+          "Full Stack Development"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "jQuery",
+          "npm",
+          "GitHub",
+          "JavaScript",
+          "React",
+          "C#",
+          ".NET",
+          "MySQL",
+          "Firebase",
+          "Firestore"
+        ]
+      },
+      {
+        "company": "University of Rochester",
+        "title": "Psychology Intern",
+        "years": "07.2019 - 08.2020",
+        "mainTech": [
+          "Psychology"
+        ],
+        "technologies": [
+          "Supervision",
+          "Risk Assessment",
+          "500+ hrs therapy",
+          "Initial Assessment",
+          "Treatment Plan",
+          "Psychological Assessments"
+        ]
+      },
+      {
+        "company": "University at Albany, SUNY",
+        "title": "College Instructor",
+        "years": "16.2017 - 05.2019",
+        "mainTech": [
+          "ECPY 360 - Cultural Diversity and Social Justice"
+        ],
+        "technologies": [
+          "Blackboard",
+          "Powerpoint",
+          "Google Sheets"
+        ]
+      },
+      {
+        "company": "University at Albany, SUNY",
+        "title": "Graduate Research Assistant",
+        "years": "08.2015 - 05.2016",
+        "mainTech": [
+          "Research"
+        ],
+        "technologies": [
+          "SPSS",
+          "MPlus",
+          "SPSS",
+          "Statistics",
+          "Structural Equation Modeling",
+          "Multivariate Statistics",
+          "Multiple Regression"
+        ]
+      },
+      {
+        "company": "University of Missouri",
+        "title": "Graduate Research Assistant",
+        "years": "08.2013 - 05.2014",
+        "mainTech": [
+          "Research"
+        ],
+        "technologies": [
+          "Nvivo",
+          "Excel"
+        ]
+      }
+    ]
+  }
