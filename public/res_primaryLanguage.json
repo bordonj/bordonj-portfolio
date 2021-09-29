@@ -1,7 +1,9 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "Hello, I'm Jenn! Most of my career experience has been in research, which eventually culminated into a counseling psychology Ph.D. I was able to achieve this with the use of the scientific method--implementing theory and statistical analyses to better understand human behavior (and its resulting psychological/ behavioral outcomes).",
+      "description2": "As I've grown an interest in coding, I've become fond of how the coding process works. That is, applying the critical thinking skills I've used for research to be relevant in the tech industry.",
+      "description3": "I'm excited to bridge the power of creating applications with the research skills I've accumulated, in hopes of becoming a creative developer (with my potentially unique educational background).",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,42 +13,65 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Astrological Interests",
+        "startDate": "July 2021",
+        "description": "- [See last image for preview of App] - Team Project that makes an API call to an Astrology API in order to determine potential interests one may have, depending on one's Astrology results. Chains API calls together. Several technologies used, including webpack to create the environment.Two different APIs (please see README for details).",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/astro/splash.png",
+          "images/portfolio/astro/astro2.png",
+          "images/portfolio/astro/astro3.png",
+          "images/portfolio/astro/astro-gif.gif"
         ],
-        "url": "",
+        "url": "https://github.com/bordonj/astrological-movie",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-webpack-plain",
+            "name": "webpack"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Pizza Project",
+        "startDate": "June 2021",
+        "description": "A project that practices object-oriented JavaScript",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/pizza/pizza1.png",
+          "images/portfolio/pizza/pizza2.png",
+          "images/portfolio/pizza/pizza3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://bordonj.github.io/pizzaParlor/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,63 +80,198 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Pig Dice",
+        "startDate": "June 2021",
+        "description": "A site that helped us practice constructors and methods. Modeled after the pig dice game. Can be very frustrating!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/pig/p1.png",
+          "images/portfolio/pig/p2.png",
+          "images/portfolio/pig/p3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://bordonj.github.io/pigDice/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Tap Room",
+        "startDate": "June 2021",
+        "description": "This is a Tap Room where a Boba Bar can track its tea storage! It will at the minimum, have CREATE and READ functionality. And if am successfully ambitious, will have UPDATE and DELETE functionality.",
+        "images": [
+          "images/portfolio/boba/boba1.png",
+          "images/portfolio/boba/boba2.png"
+        ],
+        "url": "https://bordonj.github.io/epicodus-tapRoom/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "javascript"
+          }
+        ]
+      },
+      {
+        "title": "Pierre's Sweet and Savory Treats",
+        "startDate": "July 2021",
+        "description": "This is an application with user authentication and a many-to-nany relationship.",
+        "images": [
+          "images/portfolio/pierre/pierre1.png",
+          "images/portfolio/pierre/pierre2.png"
+        ],
+        "url": "https://github.com/bordonj/epicodus-PierresSweetAndSavoryTreats.Solution/",
+        "technologies": [
           {
             "class": "devicon-csharp-plain",
             "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "dot-net"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Dr. Sillystringz Factory",
+        "startDate": "August 2021",
+        "description": "This is a silly MVC web application to help Dr. Sillystringz keep track of their machine repairs. This MVC web app allows management their engineers and machines they are licensed to fix. It demonstrates a many-to-many relationship with CRUD functionality.",
+        "images": [
+          "images/portfolio/factory/factory1.png",
+          "images/portfolio/factory/factory2.png"
+        ],
+        "url": "https://github.com/bordonj/epicodus-DrSillyStringzsFactory.Solution",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dot-net-plain",
+            "name": "dot-net"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Epicodus Bootcamp",
+        "title": "Student",
+        "years": "05.2021 - 11.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Full Stack Development"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML",
+          "CSS",
+          "jQuery",
+          "npm",
+          "GitHub",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "C#",
+          ".NET",
+          "MySQL",
+          "Firebase",
+          "Firestore"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "University of Rochester",
+        "title": "Psychology Intern",
+        "years": "07.2019 - 08.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Psychology"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Supervision",
+          "Risk Assessment",
+          "500+ hrs therapy",
+          "Initial Assessment",
+          "Treatment Plan",
+          "Psychological Assessments"
+        ]
+      },
+      {
+        "company": "University at Albany, SUNY",
+        "title": "College Instructor",
+        "years": "16.2017 - 05.2019",
+        "mainTech": [
+          "ECPY 360 - Cultural Diversity and Social Justice"
+        ],
+        "technologies": [
+          "Blackboard",
+          "Powerpoint",
+          "Google Sheets"
+        ]
+      },
+      {
+        "company": "University at Albany, SUNY",
+        "title": "Graduate Research Assistant",
+        "years": "08.2015 - 05.2016",
+        "mainTech": [
+          "Research"
+        ],
+        "technologies": [
+          "SPSS",
+          "MPlus",
+          "SPSS",
+          "Statistics",
+          "Structural Equation Modeling",
+          "Multivariate Statistics",
+          "Multiple Regression"
+        ]
+      },
+      {
+        "company": "University of Missouri",
+        "title": "Graduate Research Assistant",
+        "years": "08.2013 - 05.2014",
+        "mainTech": [
+          "Research"
+        ],
+        "technologies": [
+          "Nvivo",
+          "Excel"
         ]
       }
     ]
