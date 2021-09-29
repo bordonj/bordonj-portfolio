@@ -209,6 +209,10 @@ header h1 {
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+#aboutme-msg {
+	min-height: 485px;
+}
+
 #preview {
 	width: 500px;
 	background-color: #ebeaf5;
@@ -228,12 +232,9 @@ header h1 {
 }
 
 #resumelink {
-	// font-size: 20px;
 	border-radius: 20px;
 	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-	// margin-top: 25px;
-	// width: auto;
-	// background-color: pink;
+	margin-top: -10px;
 }
 
 button {
