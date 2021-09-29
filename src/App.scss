@@ -227,6 +227,37 @@ header h1 {
 	background: #bddfef;
 }
 
+#resumelink {
+	// font-size: 20px;
+	border-radius: 20px;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	// margin-top: 25px;
+	// width: auto;
+	// background-color: pink;
+}
+
+button {
+	color: white;
+	padding: 10px;
+	display: block;
+	background-color: rgb(65, 114, 140);
+}
+
+#myButton {
+	border-radius: 15px;
+	transition-duration: .3s;
+}
+#myButton:hover {
+	background-color: rgb(104, 150, 175);
+	color: black;
+}
+
+#resumelink a:hover, #resumelink a {
+	text-decoration: none;
+	font-size: 20px;
+	color: grey;
+}
+
 .experience-icon {
 	font-size: 300%;
 	margin-top: 25%;
@@ -327,7 +358,7 @@ header h1 {
 }
 
 .modal-description {
-	text-align: justify;
+	text-align: left;
 	padding: 5px 5px 0 5px;
 	margin-bottom: 20px;
 	font-size: 12px;
