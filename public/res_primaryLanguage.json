@@ -204,20 +204,28 @@
         "url": "https://bordonj.github.io/epicodus-currencyExchanger/",
         "technologies": [
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
           },
           {
-            "class": "devicon-dot-net-plain",
-            "name": "dot-net"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
           },
           {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
+            "class": "devicon-webpack-plain",
+            "name": "webpack"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
           }
         ]
       },
@@ -232,20 +240,28 @@
         "url": "https://bordonj.github.io/epicodus-galacticAge/",
         "technologies": [
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
           },
           {
-            "class": "devicon-dot-net-plain",
-            "name": "dot-net"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
           },
           {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
+            "class": "devicon-webpack-plain",
+            "name": "webpack"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "jQuery"
           }
         ]
       },
@@ -261,20 +277,12 @@
         "url": "https://bordonj.github.io/epicodus-portfolio/",
         "technologies": [
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          },
-          {
-            "class": "devicon-dot-net-plain",
-            "name": "dot-net"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
           }
         ]
       }
