@@ -14,6 +14,7 @@ class About extends Component {
       var about = this.props.resumeBasicInfo.description;
       var about1 = this.props.resumeBasicInfo.description2;
       var about2 = this.props.resumeBasicInfo.description3;
+      var etc = this.props.resumeBasicInfo.etc;
     }
 
     return (
@@ -46,7 +47,7 @@ class About extends Component {
               </div>
             </div>
 
-            <div className="col-md-8 center mb-5">
+            <div className="col-md-8 center mb-5 mt-5">
               <div className="col-md-10">
                 <div className="card">
                   <div className="card-header">
@@ -69,6 +70,7 @@ class About extends Component {
                     ></span>
                   </div>
                   <div
+                    id="aboutme-msg"
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
                     style={{
                       height: "auto",
@@ -84,6 +86,10 @@ class About extends Component {
                     <br />
                     {about2}
                     <br />
+                    <br />
+                    <hr />
+                    <h3>Random Stuff</h3>
+                    {etc}
                   </div>
                 </div>
               </div>
