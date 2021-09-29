@@ -139,7 +139,7 @@
       {
         "title": "Pierre's Sweet and Savory Treats",
         "startDate": "July 2021",
-        "description": "This is an application with user authentication and a many-to-nany relationship.",
+        "description": "This is an application with user authentication and a many-to-many relationship.",
         "images": [
           "images/portfolio/pierre/pierre1.png",
           "images/portfolio/pierre/pierre2.png"
