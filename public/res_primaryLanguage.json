@@ -17,10 +17,10 @@
         "startDate": "July 2021",
         "description": "- [See last image for preview of App] - Team Project that makes an API call to an Astrology API in order to determine potential interests one may have, depending on one's Astrology results. Chains API calls together. Several technologies used, including webpack to create the environment.Two different APIs (please see README for details).",
         "images": [
-          "images/portfolio/astro/splash.png",
-          "images/portfolio/astro/astro2.png",
-          "images/portfolio/astro/astro3.png",
-          "images/portfolio/astro/astro-gif.gif"
+          "/bordonj-portfolio/images/portfolio/astro/splash.png",
+          "/bordonj-portfolio/images/portfolio/astro/astro2.png",
+          "/bordonj-portfolio/images/portfolio/astro/astro3.png",
+          "/bordonj-portfolio/images/portfolio/astro/astro-gif.gif"
         ],
         "url": "https://github.com/bordonj/astrological-movie",
         "technologies": [
@@ -55,9 +55,9 @@
         "startDate": "June 2021",
         "description": "A project that practices object-oriented JavaScript",
         "images": [
-          "images/portfolio/pizza/pizza1.png",
-          "images/portfolio/pizza/pizza2.png",
-          "images/portfolio/pizza/pizza3.png"
+          "/bordonj-portfolio/images/portfolio/pizza/pizza1.png",
+          "/bordonj-portfolio/images/portfolio/pizza/pizza2.png",
+          "/bordonj-portfolio/images/portfolio/pizza/pizza3.png"
         ],
         "url": "https://bordonj.github.io/pizzaParlor/",
         "technologies": [
@@ -84,9 +84,9 @@
         "startDate": "June 2021",
         "description": "A site that helped us practice constructors and methods. Modeled after the pig dice game. Can be very frustrating!",
         "images": [
-          "images/portfolio/pig/p1.png",
-          "images/portfolio/pig/p2.png",
-          "images/portfolio/pig/p3.png"
+          "/bordonj-portfolio/images/portfolio/pig/p1.png",
+          "/bordonj-portfolio/images/portfolio/pig/p2.png",
+          "/bordonj-portfolio/images/portfolio/pig/p3.png"
         ],
         "url": "https://bordonj.github.io/pigDice/",
         "technologies": [
@@ -113,8 +113,8 @@
         "startDate": "June 2021",
         "description": "This is a Tap Room where a Boba Bar can track its tea storage! It will at the minimum, have CREATE and READ functionality. And if am successfully ambitious, will have UPDATE and DELETE functionality.",
         "images": [
-          "images/portfolio/boba/boba1.png",
-          "images/portfolio/boba/boba2.png"
+          "/bordonj-portfolio/images/portfolio/boba/boba1.png",
+          "/bordonj-portfolio/images/portfolio/boba/boba2.png"
         ],
         "url": "https://bordonj.github.io/epicodus-tapRoom/",
         "technologies": [
@@ -141,8 +141,8 @@
         "startDate": "July 2021",
         "description": "This is an application with user authentication and a many-to-many relationship.",
         "images": [
-          "images/portfolio/pierre/pierre1.png",
-          "images/portfolio/pierre/pierre2.png"
+          "/bordonj-portfolio/images/portfolio/pierre/pierre1.png",
+          "/bordonj-portfolio/images/portfolio/pierre/pierre2.png"
         ],
         "url": "https://github.com/bordonj/epicodus-PierresSweetAndSavoryTreats.Solution/",
         "technologies": [
@@ -169,8 +169,8 @@
         "startDate": "August 2021",
         "description": "This is a silly MVC web application to help Dr. Sillystringz keep track of their machine repairs. This MVC web app allows management their engineers and machines they are licensed to fix. It demonstrates a many-to-many relationship with CRUD functionality.",
         "images": [
-          "images/portfolio/factory/factory1.png",
-          "images/portfolio/factory/factory2.png"
+          "/bordonj-portfolio/images/portfolio/factory/factory1.png",
+          "/bordonj-portfolio/images/portfolio/factory/factory2.png"
         ],
         "url": "https://github.com/bordonj/epicodus-DrSillyStringzsFactory.Solution",
         "technologies": [
