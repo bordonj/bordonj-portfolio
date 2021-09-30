@@ -24,6 +24,7 @@
           "/bordonj-portfolio/images/portfolio/astro/astro-gif.gif"
         ],
         "url": "https://github.com/bordonj/astrological-movie",
+        "repo": "https://github.com/bordonj/astrological-movie",
         "technologies": [
           {
             "class": "devicon-npm-original-wordmark",
@@ -61,6 +62,7 @@
           "/bordonj-portfolio/images/portfolio/pizza/pizza3.png"
         ],
         "url": "https://bordonj.github.io/pizzaParlor/",
+        "repo": "https://github.com/bordonj/pizzaParlor",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -90,6 +92,7 @@
           "/bordonj-portfolio/images/portfolio/pig/p3.png"
         ],
         "url": "https://bordonj.github.io/pigDice/",
+        "repo": "https://github.com/bordonj/pigDice",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -118,6 +121,7 @@
           "/bordonj-portfolio/images/portfolio/boba/boba2.png"
         ],
         "url": "https://bordonj.github.io/epicodus-tapRoom/",
+        "repo": "https://github.com/bordonj/epicodus-tapRoom/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -146,6 +150,7 @@
           "/bordonj-portfolio/images/portfolio/pierre/pierre2.png"
         ],
         "url": "https://github.com/bordonj/epicodus-PierresSweetAndSavoryTreats.Solution/",
+        "repo": "https://github.com/bordonj/epicodus-PierresSweetAndSavoryTreats.Solution/",
         "technologies": [
           {
             "class": "devicon-csharp-plain",
@@ -174,6 +179,7 @@
           "/bordonj-portfolio/images/portfolio/factory/factory2.png"
         ],
         "url": "https://github.com/bordonj/epicodus-DrSillyStringzsFactory.Solution",
+        "repo": "https://github.com/bordonj/epicodus-DrSillyStringzsFactory.Solution",
         "technologies": [
           {
             "class": "devicon-csharp-plain",
@@ -202,6 +208,7 @@
           "/bordonj-portfolio/images/portfolio/curr/curr2.png"
         ],
         "url": "https://bordonj.github.io/epicodus-currencyExchanger/",
+        "repo": "https://github.com/bordonj/epicodus-currencyExchanger",
         "technologies": [
           {
             "class": "devicon-npm-original-wordmark",
@@ -238,6 +245,7 @@
           "/bordonj-portfolio/images/portfolio/gal/gal2.png"
         ],
         "url": "https://bordonj.github.io/epicodus-galacticAge/",
+        "repo": "https://github.com/bordonj/epicodus-galacticAge",
         "technologies": [
           {
             "class": "devicon-npm-original-wordmark",
@@ -275,6 +283,7 @@
           "/bordonj-portfolio/images/portfolio/oldport/oldport4.png"
         ],
         "url": "https://bordonj.github.io/epicodus-portfolio/",
+        "repo": "https://github.com/bordonj/epicodus-portfolio",
         "technologies": [
           {
             "class": "devicon-html5-plain",
