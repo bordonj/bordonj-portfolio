@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bordonj-portfolio/precache-manifest.7da098eca4baf32d3dc9651947ccb4da.js"
+  "/bordonj-portfolio/precache-manifest.ffad9bc70208ff19e067d26db97639c8.js"
 );
 
 self.addEventListener('message', (event) => {
