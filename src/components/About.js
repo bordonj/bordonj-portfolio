@@ -92,7 +92,7 @@ class About extends Component {
               </div>
             </div>
             <div id="resumelink" class="col-md-8 center offset-md-4">
-                <a href="/bordonj-portfolio/images/portfolio/resume/2021BordonJ_Resume.pdf" target="_blank">
+                <a href="https://firebasestorage.googleapis.com/v0/b/portfolio-1c507.appspot.com/o/images%2F2021Bordon_resume.pdf?alt=media&token=add33c59-b86f-4283-876c-e52f711c81da" target="_blank">
                 <button id="myButton">
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-file-earmark-pdf" viewBox="0 0 16 16">
                     <path d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2zM9.5 3A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5v2z"/>
