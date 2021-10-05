@@ -55,7 +55,7 @@ class Projects extends Component {
           </h1>
           <div className="projectintro">
             <h3>
-              To see more projects, please check out my <a href="https://github.com/bordonj"><i class="devicon-github-original"></i></a> and <a href="https://www.linkedin.com/in/bordonj/"><i class="devicon-linkedin-plain colored"></i></a>!
+              To see more projects, please check out my <a href="https://github.com/bordonj" target="_blank"><i class="devicon-github-original"></i></a> and <a href="https://www.linkedin.com/in/bordonj/" target="_blank"><i class="devicon-linkedin-plain colored"></i></a>!
               </h3>
           </div>
           <div className="col-md-12 mx-auto">
