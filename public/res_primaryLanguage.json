@@ -16,7 +16,7 @@
       {
         "title": "Astrological Interests",
         "startDate": "July 2021",
-        "description": "- [See last image for preview of App] - Team Project that makes an API call to an Astrology API in order to determine potential interests one may have, depending on one's Astrology results. Chains API calls together. Several technologies used, including webpack to create the environment.Two different APIs (please see README for details).",
+        "description": "- [See last image for preview of App] - Team Project that makes an API call to an Astrology API, subsequently making 3 more API calls to an IMDB API. Several technologies used, including webpack to create the environment. (please see README for details).",
         "images": [
           "/bordonj-portfolio/images/portfolio/astro/splash.png",
           "/bordonj-portfolio/images/portfolio/astro/astro2.png",
@@ -85,7 +85,7 @@
       {
         "title": "Pig Dice",
         "startDate": "June 2021",
-        "description": "A site that helped us practice constructors and methods. Modeled after the pig dice game. Can be very frustrating!",
+        "description": "An application that uses constructors and methods. Modeled after the pig dice game. Can be very frustrating! Need to roll the dice to accumulate to 100 to win.",
         "images": [
           "/bordonj-portfolio/images/portfolio/pig/p1.png",
           "/bordonj-portfolio/images/portfolio/pig/p2.png",
@@ -115,7 +115,7 @@
       {
         "title": "Tap Room",
         "startDate": "June 2021",
-        "description": "This is a Tap Room where a Boba Bar can track its tea storage! It will at the minimum, have CREATE and READ functionality. And if am successfully ambitious, will have UPDATE and DELETE functionality.",
+        "description": "This is a Tap Room app where a Boba Bar can track its tea storage! A user can type in information about a specific Tea, including its name, brand, price, flavor and pints. Additionally, a user can select a Tea for more details, have access to edit the Tea details, delete the tea, and/or sell 1 pint of the Tea. ",
         "images": [
           "/bordonj-portfolio/images/portfolio/boba/boba1.png",
           "/bordonj-portfolio/images/portfolio/boba/boba2.png"
@@ -144,7 +144,7 @@
       {
         "title": "Pierre's Sweet and Savory Treats",
         "startDate": "July 2021",
-        "description": "This is an application with user authentication and a many-to-many relationship.",
+        "description": "This is an app with user authentication and a many-to-many relationship. Also has CRUD functionality.",
         "images": [
           "/bordonj-portfolio/images/portfolio/pierre/pierre1.png",
           "/bordonj-portfolio/images/portfolio/pierre/pierre2.png"
@@ -173,7 +173,7 @@
       {
         "title": "Dr. Sillystringz Factory",
         "startDate": "August 2021",
-        "description": "This is a silly MVC web application to help Dr. Sillystringz keep track of their machine repairs. This MVC web app allows management their engineers and machines they are licensed to fix. It demonstrates a many-to-many relationship with CRUD functionality.",
+        "description": "This is an MVC web app to help 'Dr. Sillystringz' keep track of their machine repairs. This MVC web app allows management of their engineers and the machines engineers are licensed to fix. It demonstrates a many-to-many relationship with CRUD functionality.",
         "images": [
           "/bordonj-portfolio/images/portfolio/factory/factory1.png",
           "/bordonj-portfolio/images/portfolio/factory/factory2.png"
@@ -202,7 +202,7 @@
       {
         "title": "Currency Converter",
         "startDate": "June 2021",
-        "description": "Epicodus Code Review 006 - The Currency Exchanger is an application used to display currency conversions (layout inspired by Google's search engine converter).",
+        "description": "The Currency Exchanger is an app used to display currency conversions (layout inspired by Google's search engine converter). There are a total of 7 real currencies you can check the conversion amount, and 1 fake currency. It makes API calls to Exchange API.",
         "images": [
           "/bordonj-portfolio/images/portfolio/curr/curr1.png",
           "/bordonj-portfolio/images/portfolio/curr/curr2.png"
@@ -239,7 +239,7 @@
       {
         "title": "Galactic Age Calculator",
         "startDate": "June 2021",
-        "description": "This application can take a person's age in Earth years, and then transform it into an age for a respective planet (i.e., Mercury, Venus, Mars, Jupiter)",
+        "description": "This app can take a person's age in Earth years, and then transform it into an age for a respective planet (i.e., Mercury, Venus, Mars, Jupiter). You can fill out the form with specific demographics to calculate a (pseudo) prediction of your years left live on different planets.",
         "images": [
           "/bordonj-portfolio/images/portfolio/gal/gal1.png",
           "/bordonj-portfolio/images/portfolio/gal/gal2.png"
@@ -274,7 +274,7 @@
         ]
       },
       {
-        "title": "Old Profile",
+        "title": "Old Portfolio",
         "startDate": "May 2021",
         "description": "This is a (silly) portfolio webpage that uses both HTML (hypertext markup language) and CSS (cascading style sheet) to build and style the content. On this page, there is a short biography provided about me (Jenn). On the top of the page, you can navigate through the different content of the website.",
         "images": [
@@ -358,7 +358,6 @@
         "technologies": [
           "SPSS",
           "MPlus",
-          "SPSS",
           "Statistics",
           "Structural Equation Modeling",
           "Multivariate Statistics",
@@ -374,7 +373,10 @@
         ],
         "technologies": [
           "Nvivo",
-          "Excel"
+          "Excel",
+          "Qualtrics",
+          "HTML",
+          "CSS"
         ]
       }
     ]
