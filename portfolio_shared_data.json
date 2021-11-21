@@ -54,6 +54,11 @@
           "level": "85"
         },
         {
+          "name": "MaterialUI",
+          "class": "devicon-materialui-plain",
+          "level": "85"
+        },
+        {
           "name": "jQuery",
           "class": "devicon-jquery-plain",
           "level": "85"
@@ -66,6 +71,16 @@
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-plain",
+          "level": "60"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
           "level": "60"
         }
       ]
