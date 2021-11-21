@@ -1,383 +1,431 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "Hello, I'm Jenn! Most of my career experience has been in research, which eventually culminated into a counseling psychology Ph.D. I was able to achieve this with the use of the scientific method--implementing theory and statistical analyses to better understand human behavior (and its resulting psychological/ behavioral outcomes).",
-      "description2": "As I've grown an interest in coding, I've become fond of how the coding process works. That is, applying the critical thinking skills I've used for research to be relevant in the tech industry.",
-      "description3": "I'm excited to bridge the power of creating applications with the research skills I've accumulated, in hopes of becoming a creative developer (with my potentially unique educational background).",
-      "etc": "In my spare time, I enjoy playing video games. I personally enjoy watching competitive Overwatch, as well as getting wrecked in competitive mode and dropping to bronze. Just kidding~ it's definitely rewarding to win matches though!",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "Hello, I'm Jenn! Most of my career experience has been in research, which eventually culminated into a counseling psychology Ph.D. I was able to achieve this with the use of the scientific method--implementing theory and statistical analyses to better understand human behavior (and its resulting psychological/ behavioral outcomes).",
+    "description2": "As I've grown an interest in coding, I've become fond of how the coding process works. That is, applying the critical thinking skills I've used for research to be relevant in the tech industry.",
+    "description3": "I'm excited to bridge the power of creating applications with the research skills I've accumulated, in hopes of becoming a creative developer (with my potentially unique educational background).",
+    "etc": "In my spare time, I enjoy playing video games. I personally enjoy watching competitive Overwatch, as well as getting wrecked in competitive mode and dropping to bronze. Just kidding~ it's definitely rewarding to win matches though!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Know Myself",
+      "startDate": "Aug 2021",
+      "description": "This is an application used for the goal of helping users understand themselves, their biases, their triggers, and more better. Hopefully to become more understanding/empathic people. Ultimately, someone could hope to become more self-reflective and aware of the choices they make and the consequences they will have. (please see README for details).",
+      "images": [
+        "/bordonj-portfolio/images/portfolio/know-myself/know1.png",
+        "/bordonj-portfolio/images/portfolio/know-myself/know2.png",
+        "/bordonj-portfolio/images/portfolio/know-myself/know3.png",
+        "/bordonj-portfolio/images/portfolio/know-myself/know4.png",
+        "bordonj-portfolio/images/portfolio/know-myself/know5.png"
+      ],
+      "url": "https://know-myself.bordonj.com/",
+      "repo": "https://github.com/bordonj/self-cultural-awareness-tracker",
+      "technologies": [
+        {
+          "class": "devicon-npm-original-wordmark",
+          "name": "npm"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "MaterialUI"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": "webpack"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Astrological Interests",
-        "startDate": "July 2021",
-        "description": "- [See last image for preview of App] - Team Project that makes an API call to an Astrology API, subsequently making 3 more API calls to an IMDB API. Several technologies used, including webpack to create the environment. (please see README for details).",
-        "images": [
-          "/bordonj-portfolio/images/portfolio/astro/splash.png",
-          "/bordonj-portfolio/images/portfolio/astro/astro2.png",
-          "/bordonj-portfolio/images/portfolio/astro/astro3.png",
-          "/bordonj-portfolio/images/portfolio/astro/astro-gif.gif"
-        ],
-        "url": "https://github.com/bordonj/astrological-movie",
-        "repo": "https://github.com/bordonj/astrological-movie",
-        "technologies": [
-          {
-            "class": "devicon-npm-original-wordmark",
-            "name": "npm"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-webpack-plain",
-            "name": "webpack"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-jquery-plain",
-            "name": "jQuery"
-          }
-        ]
-      },
-      {
-        "title": "Pizza Project",
-        "startDate": "June 2021",
-        "description": "A project that practices object-oriented JavaScript",
-        "images": [
-          "/bordonj-portfolio/images/portfolio/pizza/pizza1.png",
-          "/bordonj-portfolio/images/portfolio/pizza/pizza2.png",
-          "/bordonj-portfolio/images/portfolio/pizza/pizza3.png"
-        ],
-        "url": "https://bordonj.github.io/pizzaParlor/",
-        "repo": "https://github.com/bordonj/pizzaParlor",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-jquery-plain",
-            "name": "jQuery"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Pig Dice",
-        "startDate": "June 2021",
-        "description": "An application that uses constructors and methods. Modeled after the pig dice game. Can be very frustrating! Need to roll the dice to accumulate to 100 to win.",
-        "images": [
-          "/bordonj-portfolio/images/portfolio/pig/p1.png",
-          "/bordonj-portfolio/images/portfolio/pig/p2.png",
-          "/bordonj-portfolio/images/portfolio/pig/p3.png"
-        ],
-        "url": "https://bordonj.github.io/pigDice/",
-        "repo": "https://github.com/bordonj/pigDice",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-jquery-plain",
-            "name": "jQuery"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Tap Room",
-        "startDate": "June 2021",
-        "description": "This is a Tap Room app where a Boba Bar can track its tea storage! A user can type in information about a specific Tea, including its name, brand, price, flavor and pints. Additionally, a user can select a Tea for more details, have access to edit the Tea details, delete the tea, and/or sell 1 pint of the Tea. ",
-        "images": [
-          "/bordonj-portfolio/images/portfolio/boba/boba1.png",
-          "/bordonj-portfolio/images/portfolio/boba/boba2.png"
-        ],
-        "url": "https://bordonj.github.io/epicodus-tapRoom/",
-        "repo": "https://github.com/bordonj/epicodus-tapRoom/",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "javascript"
-          }
-        ]
-      },
-      {
-        "title": "Pierre's Sweet and Savory Treats",
-        "startDate": "July 2021",
-        "description": "This is an app with user authentication and a many-to-many relationship. Also has CRUD functionality.",
-        "images": [
-          "/bordonj-portfolio/images/portfolio/pierre/pierre1.png",
-          "/bordonj-portfolio/images/portfolio/pierre/pierre2.png"
-        ],
-        "url": "https://github.com/bordonj/epicodus-PierresSweetAndSavoryTreats.Solution/",
-        "repo": "https://github.com/bordonj/epicodus-PierresSweetAndSavoryTreats.Solution/",
-        "technologies": [
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          },
-          {
-            "class": "devicon-dot-net-plain",
-            "name": "dot-net"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          }
-        ]
-      },
-      {
-        "title": "Dr. Sillystringz Factory",
-        "startDate": "August 2021",
-        "description": "This is an MVC web app to help 'Dr. Sillystringz' keep track of their machine repairs. This MVC web app allows management of their engineers and the machines engineers are licensed to fix. It demonstrates a many-to-many relationship with CRUD functionality.",
-        "images": [
-          "/bordonj-portfolio/images/portfolio/factory/factory1.png",
-          "/bordonj-portfolio/images/portfolio/factory/factory2.png"
-        ],
-        "url": "https://github.com/bordonj/epicodus-DrSillyStringzsFactory.Solution",
-        "repo": "https://github.com/bordonj/epicodus-DrSillyStringzsFactory.Solution",
-        "technologies": [
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          },
-          {
-            "class": "devicon-dot-net-plain",
-            "name": "dot-net"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
-          }
-        ]
-      },
-      {
-        "title": "Currency Converter",
-        "startDate": "June 2021",
-        "description": "The Currency Exchanger is an app used to display currency conversions (layout inspired by Google's search engine converter). There are a total of 7 real currencies you can check the conversion amount, and 1 fake currency. It makes API calls to Exchange API.",
-        "images": [
-          "/bordonj-portfolio/images/portfolio/curr/curr1.png",
-          "/bordonj-portfolio/images/portfolio/curr/curr2.png"
-        ],
-        "url": "https://bordonj.github.io/epicodus-currencyExchanger/",
-        "repo": "https://github.com/bordonj/epicodus-currencyExchanger",
-        "technologies": [
-          {
-            "class": "devicon-npm-original-wordmark",
-            "name": "npm"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-webpack-plain",
-            "name": "webpack"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-jquery-plain",
-            "name": "jQuery"
-          }
-        ]
-      },
-      {
-        "title": "Galactic Age Calculator",
-        "startDate": "June 2021",
-        "description": "This app can take a person's age in Earth years, and then transform it into an age for a respective planet (i.e., Mercury, Venus, Mars, Jupiter). You can fill out the form with specific demographics to calculate a (pseudo) prediction of your years left live on different planets.",
-        "images": [
-          "/bordonj-portfolio/images/portfolio/gal/gal1.png",
-          "/bordonj-portfolio/images/portfolio/gal/gal2.png"
-        ],
-        "url": "https://bordonj.github.io/epicodus-galacticAge/",
-        "repo": "https://github.com/bordonj/epicodus-galacticAge",
-        "technologies": [
-          {
-            "class": "devicon-npm-original-wordmark",
-            "name": "npm"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-webpack-plain",
-            "name": "webpack"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-jquery-plain",
-            "name": "jQuery"
-          }
-        ]
-      },
-      {
-        "title": "Old Portfolio",
-        "startDate": "May 2021",
-        "description": "This is a (silly) portfolio webpage that uses both HTML (hypertext markup language) and CSS (cascading style sheet) to build and style the content. On this page, there is a short biography provided about me (Jenn). On the top of the page, you can navigate through the different content of the website.",
-        "images": [
-          "/bordonj-portfolio/images/portfolio/oldport/oldport2.png",
-          "/bordonj-portfolio/images/portfolio/oldport/oldport3.png",
-          "/bordonj-portfolio/images/portfolio/oldport/oldport4.png"
-        ],
-        "url": "https://bordonj.github.io/epicodus-portfolio/",
-        "repo": "https://github.com/bordonj/epicodus-portfolio",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Epicodus Bootcamp",
-        "title": "Student",
-        "years": "05.2021 - 11.2021",
-        "mainTech": [
-          "Full Stack Development"
-        ],
-        "technologies": [
-          "HTML",
-          "CSS",
-          "jQuery",
-          "npm",
-          "GitHub",
-          "JavaScript",
-          "React",
-          "C#",
-          ".NET",
-          "MySQL",
-          "Firebase",
-          "Firestore"
-        ]
-      },
-      {
-        "company": "University of Rochester",
-        "title": "Psychology Intern",
-        "years": "07.2019 - 08.2020",
-        "mainTech": [
-          "Psychology"
-        ],
-        "technologies": [
-          "Supervision",
-          "Risk Assessment",
-          "500+ hrs therapy",
-          "Initial Assessment",
-          "Treatment Plan",
-          "Psychological Assessments"
-        ]
-      },
-      {
-        "company": "University at Albany, SUNY",
-        "title": "College Instructor",
-        "years": "16.2017 - 05.2019",
-        "mainTech": [
-          "ECPY 360 - Cultural Diversity and Social Justice"
-        ],
-        "technologies": [
-          "Blackboard",
-          "Powerpoint",
-          "Google Sheets"
-        ]
-      },
-      {
-        "company": "University at Albany, SUNY",
-        "title": "Graduate Research Assistant",
-        "years": "08.2015 - 05.2016",
-        "mainTech": [
-          "Research"
-        ],
-        "technologies": [
-          "SPSS",
-          "MPlus",
-          "Statistics",
-          "Structural Equation Modeling",
-          "Multivariate Statistics",
-          "Multiple Regression"
-        ]
-      },
-      {
-        "company": "University of Missouri",
-        "title": "Graduate Research Assistant",
-        "years": "08.2013 - 05.2014",
-        "mainTech": [
-          "Research"
-        ],
-        "technologies": [
-          "Nvivo",
-          "Excel",
-          "Qualtrics",
-          "HTML",
-          "CSS"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Astrological Interests",
+      "startDate": "July 2021",
+      "description": "- [See last image for preview of App] - Team Project that makes an API call to an Astrology API, subsequently making 3 more API calls to an IMDB API. Several technologies used, including webpack to create the environment. (please see README for details).",
+      "images": [
+        "/bordonj-portfolio/images/portfolio/astro/splash.png",
+        "/bordonj-portfolio/images/portfolio/astro/astro2.png",
+        "/bordonj-portfolio/images/portfolio/astro/astro3.png",
+        "/bordonj-portfolio/images/portfolio/astro/astro-gif.gif"
+      ],
+      "url": "https://github.com/bordonj/astrological-movie",
+      "repo": "https://github.com/bordonj/astrological-movie",
+      "technologies": [
+        {
+          "class": "devicon-npm-original-wordmark",
+          "name": "npm"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": "webpack"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        }
+      ]
+    },
+    {
+      "title": "Pizza Project",
+      "startDate": "June 2021",
+      "description": "A project that practices object-oriented JavaScript",
+      "images": [
+        "/bordonj-portfolio/images/portfolio/pizza/pizza1.png",
+        "/bordonj-portfolio/images/portfolio/pizza/pizza2.png",
+        "/bordonj-portfolio/images/portfolio/pizza/pizza3.png"
+      ],
+      "url": "https://bordonj.github.io/pizzaParlor/",
+      "repo": "https://github.com/bordonj/pizzaParlor",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Pig Dice",
+      "startDate": "June 2021",
+      "description": "An application that uses constructors and methods. Modeled after the pig dice game. Can be very frustrating! Need to roll the dice to accumulate to 100 to win.",
+      "images": [
+        "/bordonj-portfolio/images/portfolio/pig/p1.png",
+        "/bordonj-portfolio/images/portfolio/pig/p2.png",
+        "/bordonj-portfolio/images/portfolio/pig/p3.png"
+      ],
+      "url": "https://bordonj.github.io/pigDice/",
+      "repo": "https://github.com/bordonj/pigDice",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Tap Room",
+      "startDate": "June 2021",
+      "description": "This is a Tap Room app where a Boba Bar can track its tea storage! A user can type in information about a specific Tea, including its name, brand, price, flavor and pints. Additionally, a user can select a Tea for more details, have access to edit the Tea details, delete the tea, and/or sell 1 pint of the Tea. ",
+      "images": [
+        "/bordonj-portfolio/images/portfolio/boba/boba1.png",
+        "/bordonj-portfolio/images/portfolio/boba/boba2.png"
+      ],
+      "url": "https://bordonj.github.io/epicodus-tapRoom/",
+      "repo": "https://github.com/bordonj/epicodus-tapRoom/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "javascript"
+        }
+      ]
+    },
+    {
+      "title": "Pierre's Sweet and Savory Treats",
+      "startDate": "July 2021",
+      "description": "This is an app with user authentication and a many-to-many relationship. Also has CRUD functionality.",
+      "images": [
+        "/bordonj-portfolio/images/portfolio/pierre/pierre1.png",
+        "/bordonj-portfolio/images/portfolio/pierre/pierre2.png"
+      ],
+      "url": "https://github.com/bordonj/epicodus-PierresSweetAndSavoryTreats.Solution/",
+      "repo": "https://github.com/bordonj/epicodus-PierresSweetAndSavoryTreats.Solution/",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "dot-net"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    },
+    {
+      "title": "Dr. Sillystringz Factory",
+      "startDate": "August 2021",
+      "description": "This is an MVC web app to help 'Dr. Sillystringz' keep track of their machine repairs. This MVC web app allows management of their engineers and the machines engineers are licensed to fix. It demonstrates a many-to-many relationship with CRUD functionality.",
+      "images": [
+        "/bordonj-portfolio/images/portfolio/factory/factory1.png",
+        "/bordonj-portfolio/images/portfolio/factory/factory2.png"
+      ],
+      "url": "https://github.com/bordonj/epicodus-DrSillyStringzsFactory.Solution",
+      "repo": "https://github.com/bordonj/epicodus-DrSillyStringzsFactory.Solution",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-dot-net-plain",
+          "name": "dot-net"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    },
+    {
+      "title": "Currency Converter",
+      "startDate": "June 2021",
+      "description": "The Currency Exchanger is an app used to display currency conversions (layout inspired by Google's search engine converter). There are a total of 7 real currencies you can check the conversion amount, and 1 fake currency. It makes API calls to Exchange API.",
+      "images": [
+        "/bordonj-portfolio/images/portfolio/curr/curr1.png",
+        "/bordonj-portfolio/images/portfolio/curr/curr2.png"
+      ],
+      "url": "https://bordonj.github.io/epicodus-currencyExchanger/",
+      "repo": "https://github.com/bordonj/epicodus-currencyExchanger",
+      "technologies": [
+        {
+          "class": "devicon-npm-original-wordmark",
+          "name": "npm"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": "webpack"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        }
+      ]
+    },
+    {
+      "title": "Galactic Age Calculator",
+      "startDate": "June 2021",
+      "description": "This app can take a person's age in Earth years, and then transform it into an age for a respective planet (i.e., Mercury, Venus, Mars, Jupiter). You can fill out the form with specific demographics to calculate a (pseudo) prediction of your years left live on different planets.",
+      "images": [
+        "/bordonj-portfolio/images/portfolio/gal/gal1.png",
+        "/bordonj-portfolio/images/portfolio/gal/gal2.png"
+      ],
+      "url": "https://bordonj.github.io/epicodus-galacticAge/",
+      "repo": "https://github.com/bordonj/epicodus-galacticAge",
+      "technologies": [
+        {
+          "class": "devicon-npm-original-wordmark",
+          "name": "npm"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": "webpack"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "jQuery"
+        }
+      ]
+    },
+    {
+      "title": "Old Portfolio",
+      "startDate": "May 2021",
+      "description": "This is a (silly) portfolio webpage that uses both HTML (hypertext markup language) and CSS (cascading style sheet) to build and style the content. On this page, there is a short biography provided about me (Jenn). On the top of the page, you can navigate through the different content of the website.",
+      "images": [
+        "/bordonj-portfolio/images/portfolio/oldport/oldport2.png",
+        "/bordonj-portfolio/images/portfolio/oldport/oldport3.png",
+        "/bordonj-portfolio/images/portfolio/oldport/oldport4.png"
+      ],
+      "url": "https://bordonj.github.io/epicodus-portfolio/",
+      "repo": "https://github.com/bordonj/epicodus-portfolio",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Epicodus Bootcamp",
+      "title": "Student",
+      "years": "05.2021 - 11.2021",
+      "mainTech": [
+        "Full Stack Development"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "jQuery",
+        "npm",
+        "GitHub",
+        "JavaScript",
+        "React",
+        "C#",
+        ".NET",
+        "MySQL",
+        "Firebase",
+        "Firestore"
+      ]
+    },
+    {
+      "company": "University of Rochester",
+      "title": "Psychology Intern",
+      "years": "07.2019 - 08.2020",
+      "mainTech": [
+        "Psychology"
+      ],
+      "technologies": [
+        "Supervision",
+        "Risk Assessment",
+        "500+ hrs therapy",
+        "Initial Assessment",
+        "Treatment Plan",
+        "Psychological Assessments"
+      ]
+    },
+    {
+      "company": "University at Albany, SUNY",
+      "title": "College Instructor",
+      "years": "16.2017 - 05.2019",
+      "mainTech": [
+        "ECPY 360 - Cultural Diversity and Social Justice"
+      ],
+      "technologies": [
+        "Blackboard",
+        "Powerpoint",
+        "Google Sheets"
+      ]
+    },
+    {
+      "company": "University at Albany, SUNY",
+      "title": "Graduate Research Assistant",
+      "years": "08.2015 - 05.2016",
+      "mainTech": [
+        "Research"
+      ],
+      "technologies": [
+        "SPSS",
+        "MPlus",
+        "Statistics",
+        "Structural Equation Modeling",
+        "Multivariate Statistics",
+        "Multiple Regression"
+      ]
+    },
+    {
+      "company": "University of Missouri",
+      "title": "Graduate Research Assistant",
+      "years": "08.2013 - 05.2014",
+      "mainTech": [
+        "Research"
+      ],
+      "technologies": [
+        "Nvivo",
+        "Excel",
+        "Qualtrics",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ]
+}
