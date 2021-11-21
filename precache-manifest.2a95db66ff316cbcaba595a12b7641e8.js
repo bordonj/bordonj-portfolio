@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3015dcad968c310160b01e59b9916c9d",
+    "revision": "043524df708de247da32f011aeb54d16",
     "url": "/bordonj-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bordonj-portfolio/static/css/2.9497e657.chunk.css"
   },
   {
-    "revision": "c907fdb4b13829fbbfd1",
+    "revision": "bbbb955ddc215c3335fe",
     "url": "/bordonj-portfolio/static/css/main.510f07a7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bordonj-portfolio/static/js/2.33d3715c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c907fdb4b13829fbbfd1",
-    "url": "/bordonj-portfolio/static/js/main.684106d3.chunk.js"
+    "revision": "bbbb955ddc215c3335fe",
+    "url": "/bordonj-portfolio/static/js/main.a912056f.chunk.js"
   },
   {
     "revision": "698ae3f6048513a2cede",

@@ -346,6 +346,28 @@
   ],
   "experience": [
     {
+      "company": "Grant Us Funding",
+      "title": "Software Engineer Intern",
+      "years": "10.2021 - 12.2021",
+      "mainTech": [
+        "Full Stack Development"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "MUI",
+        "MongoDB",
+        "npm",
+        "GitHub",
+        "JavaScript",
+        "React 16.x (Hooks)",
+        "React Router Redux",
+        "Express",
+        "NodeJS",
+        "Firebase"
+      ]
+    },
+    {
       "company": "Epicodus Bootcamp",
       "title": "Student",
       "years": "05.2021 - 11.2021",

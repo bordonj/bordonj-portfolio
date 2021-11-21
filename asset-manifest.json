@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bordonj-portfolio/static/css/main.510f07a7.chunk.css",
-    "main.js": "/bordonj-portfolio/static/js/main.684106d3.chunk.js",
-    "main.js.map": "/bordonj-portfolio/static/js/main.684106d3.chunk.js.map",
+    "main.js": "/bordonj-portfolio/static/js/main.a912056f.chunk.js",
+    "main.js.map": "/bordonj-portfolio/static/js/main.a912056f.chunk.js.map",
     "runtime-main.js": "/bordonj-portfolio/static/js/runtime-main.8d1f00be.js",
     "runtime-main.js.map": "/bordonj-portfolio/static/js/runtime-main.8d1f00be.js.map",
     "static/css/2.9497e657.chunk.css": "/bordonj-portfolio/static/css/2.9497e657.chunk.css",
     "static/js/2.33d3715c.chunk.js": "/bordonj-portfolio/static/js/2.33d3715c.chunk.js",
     "static/js/2.33d3715c.chunk.js.map": "/bordonj-portfolio/static/js/2.33d3715c.chunk.js.map",
     "index.html": "/bordonj-portfolio/index.html",
-    "precache-manifest.0d18dc45079e74e64bab05f1269f5280.js": "/bordonj-portfolio/precache-manifest.0d18dc45079e74e64bab05f1269f5280.js",
+    "precache-manifest.2a95db66ff316cbcaba595a12b7641e8.js": "/bordonj-portfolio/precache-manifest.2a95db66ff316cbcaba595a12b7641e8.js",
     "service-worker.js": "/bordonj-portfolio/service-worker.js",
     "static/css/2.9497e657.chunk.css.map": "/bordonj-portfolio/static/css/2.9497e657.chunk.css.map",
     "static/css/main.510f07a7.chunk.css.map": "/bordonj-portfolio/static/css/main.510f07a7.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.9497e657.chunk.css",
     "static/js/2.33d3715c.chunk.js",
     "static/css/main.510f07a7.chunk.css",
-    "static/js/main.684106d3.chunk.js"
+    "static/js/main.a912056f.chunk.js"
   ]
 }
